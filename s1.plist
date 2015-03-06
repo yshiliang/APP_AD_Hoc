@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ces.TraceCode</string>
+				<string>com.ces.S1</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>该APP由上海中信信息发展股份有限公司研发</string>
 				<key>title</key>
-				<string>肉菜追溯</string>
+				<string>S1</string>
 			</dict>
 		</dict>
 	</array>
