@@ -11,19 +11,19 @@
                     <key>kind</key>  
                     <string>software-package</string>  
                     <key>url</key>  
-                    <string>ipa文件下载地址</string>  
+                    <string>https://kk-statics-uat.oss-cn-shanghai.aliyuncs.com/app/uat_chezhu/kjcz.ipa</string>  
                 </dict>  
             </array>  
             <key>metadata</key>  
             <dict>  
                 <key>bundle-identifier</key>  
-                <string>包名</string>  
+                <string>com.luchang.LCKC</string>  
                 <key>bundle-version</key>  
-                <string>版本号</string>  
+                <string>3.30.6</string>  
                 <key>kind</key>  
                 <string>software</string>  
                 <key>title</key>  
-                <string>项目名字</string>  
+                <string>凯京车主</string>  
             </dict>  
         </dict>  
     </array>  
